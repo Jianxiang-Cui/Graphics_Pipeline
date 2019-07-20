@@ -1,0 +1,44 @@
+﻿  Camera.cpp
+  ColorAndMaterials.cpp
+  Defs.cpp
+  EShape.cpp
+  FrameBuffer.cpp
+  Light.cpp
+  Image.cpp
+  FragmentOps.cpp
+  ProjectPipeline.cpp
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\ProjectPipeline.cpp(21,25): warning C4305:  “初始化”: 从“double”到“float”截断
+  VertexOps.cpp
+  Rasterization.cpp
+  RayTracer.cpp
+  IScene.cpp
+  IShape.cpp
+  Utilities.cpp
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\ProjectPipeline.cpp(43,70): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(510,47): warning C4244:  “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(510,47): warning C4244:         with
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(510,47): warning C4244:         [
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(510,47): warning C4244:             _Ty=float
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(510,47): warning C4244:         ]
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(513,47): warning C4244:  “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(513,47): warning C4244:         with
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(513,47): warning C4244:         [
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(513,47): warning C4244:             _Ty=float
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(513,47): warning C4244:         ]
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(514,47): warning C4244:  “参数”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(514,47): warning C4244:         with
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(514,47): warning C4244:         [
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(514,47): warning C4244:             _Ty=float
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(514,47): warning C4244:         ]
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(537,42): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(541,42): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(542,42): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+  VertextData.cpp
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\Utilities.cpp(1100,36): warning C4267:  “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\VertextData.cpp(93,39): warning C4267:  “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\287BaseCode\VertextData.cpp(114,47): warning C4267:  “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1551 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  287BaseCode.vcxproj -> C:\Users\cuijianxiang\Desktop\Graphics Pipeline\Graphics Pipeline\x64\Release\287BaseCode.exe
